@@ -1,8 +1,32 @@
-- 👋 Hi, I’m @sebekbr
-- 👀 I’m interested in music.
-- 🌱 I’m currently learning SQL, Python and Django
+# 1. About me
+- ERP
+- SQL
+- Python
+- Infrastructure
+- Automation
+- Business systems
 
-<!---
-sebekbr/sebekbr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 2. Current interests
+- AI-assisted business analytics and solving problems
+- Linux & Windows infrastructure
+- Python automation and dev
+- ERP integrations
+- SQL optimization
+
+# 3. Featured projects
+- SPC
+- xml_ean
+- PropMan
+
+# 4. Stack
+- Python
+- SQL
+- Django
+- MSSQL
+- PostgreSQL
+- Linux
+- Windows Server
+- Hyper-V
+- Git
+- FastAPI
+- Metabase
