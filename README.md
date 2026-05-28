@@ -1,4 +1,5 @@
-# 1. About me
+# Hi, I'm Sebastian
+## About me
 - ERP
 - SQL
 - Python
@@ -6,19 +7,20 @@
 - Automation
 - Business systems
 
-# 2. Current interests
+## 2. Current interests
 - AI-assisted business analytics and solving problems
 - Linux & Windows infrastructure
-- Python automation and dev
+- Python automation and development
 - ERP integrations
 - SQL optimization
 
-# 3. Featured projects
-- SPC
-- xml_ean
-- PropMan
+## 3. Featured projects
+- [SPC - Subiekt Product Checker](https://github.com/sebekbr/SubiektProductChecker)
+- [EDI_ILN_checker]
+- [PropMan - Property Manager](https://github.com/sebekbr/propman)
+- 🛠 AI Sales Analytics Platform - in progress... 🛠
 
-# 4. Stack
+## 4. Stack
 - Python
 - SQL
 - Django
