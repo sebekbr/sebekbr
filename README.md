@@ -15,7 +15,7 @@
 - SQL optimization
 
 ## 3. Featured projects
-- [🛠 AI Sales Analytics Platform - in progress... 🛠](https://github.com/sebekbr/subiekt-ai-sales-analytics-platform)
+- [🛠 AI Sales Analytics Platform - Proof of Concept 🛠](https://github.com/sebekbr/subiekt-ai-sales-analytics-platform)
 - [SPC - Subiekt Product Checker](https://github.com/sebekbr/SubiektProductChecker)
 - [PropMan - Property Manager](https://github.com/sebekbr/propman)
 
